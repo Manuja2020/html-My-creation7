@@ -1,0 +1,41 @@
+.heading{
+    color:rgb(59, 78, 78);
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration:underline;
+}
+p[class=description]{
+    color: rgba(22, 23, 33, 0.671);
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align-last:center;
+}
+.about-info{
+    color: rgb(100, 92, 92);
+    text-indent: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular',
+    'Lucida Grande','Lucida Sans Unicode', Geneva,
+    Verdana, sans-serif;
+}
+p[class=description-two]{
+    color: rgb(92, 73, 140);
+    text-align:justify;
+    font-family:'Lucida Sans';
+    font-weight: bold;
+}
+.about-info-go{
+    color: rgb(164, 111, 213);
+    text-indent: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+}
+.description-two-pr{
+    color: rgb(74, 111, 111);
+    text-indent: 20px;
+    font-family: cursive;
+}
+.description-two-pr2{
+    color: rgb(98, 76, 46);
+    text-indent: 20px;
+    font-family: cursive;
+}
